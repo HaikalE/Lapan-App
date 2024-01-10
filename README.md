@@ -1,2 +1,0 @@
-# Lapan-App
-Projek PKM
